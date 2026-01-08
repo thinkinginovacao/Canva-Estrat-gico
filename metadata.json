@@ -1,0 +1,5 @@
+{
+  "name": "Canvas Estratégico Hoje vs Futuro",
+  "description": "Uma ferramenta interativa para planejamento estratégico baseada em canvas, permitindo documentar a situação atual, barreiras e objetivos futuros com suporte a impressão.",
+  "requestFramePermissions": []
+}
